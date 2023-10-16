@@ -10,7 +10,7 @@ Repository with custom scripts that have proven useful at some point. Feel free 
 
  Delete all files with a specific extension
 
-```http
+```
   ./deleteAll.sh /path_to_the_directory/ extension
 ```
 | Parameter |  Description                |
@@ -20,7 +20,7 @@ Repository with custom scripts that have proven useful at some point. Feel free 
 
  Example:
 
-```http
+```
   ./deleteAll.sh ~/Desktop txt
 ```
 
@@ -29,7 +29,7 @@ Repository with custom scripts that have proven useful at some point. Feel free 
 
  Renames all files in a directory
 
-```http
+```
   ./renameAll.sh /path_to_the_directory/ new_name
 ```
 | Parameter |  Description                |
@@ -39,7 +39,7 @@ Repository with custom scripts that have proven useful at some point. Feel free 
 
  Example:
 
-```http
+```
   ./renameAll.sh ~/Pictures photo
 ```
 ### fastCloneCode.sh
@@ -47,7 +47,7 @@ Repository with custom scripts that have proven useful at some point. Feel free 
  Clones a repository, goes to the project directory and opens it with lunar vim
   * git required
 
-```http
+```
   ./fastCloneCode.sh project.git ~/path_to_the_directory
 ```
 | Parameter |  Description                |
