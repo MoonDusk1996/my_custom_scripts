@@ -57,6 +57,6 @@ Repository with custom scripts that have proven useful at some point. Feel free 
 
  Example:
 
-```http
+```
   ./fastCloneCode.sh https://github.com/MoonDusk1996/my_custom_scripts.git ~/Projects
 ```
