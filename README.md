@@ -1,5 +1,5 @@
 
-# My Arch Scripts
+# My custom scripts
 
 Repository with custom scripts that have proven useful at some point. Feel free to edit or add more scripts to this repository.
 
